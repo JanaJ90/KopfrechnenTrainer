@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KopfrechnenStart",
+            "request": "launch",
+            "mainClass": "KopfrechnenStart",
+            "projectName": "KopfrechnenTrainer_aeba6fae"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
